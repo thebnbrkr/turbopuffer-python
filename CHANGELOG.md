@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.6.1 (2026-07-13)
+
+Full Changelog: [v2.6.0...v2.6.1](https://github.com/turbopuffer/turbopuffer-python/compare/v2.6.0...v2.6.1)
+
+### Bug Fixes
+
+* **internal:** resolve build failures ([53ce6dd](https://github.com/turbopuffer/turbopuffer-python/commit/53ce6ddf14884821a1d3d760badef1ec558f4e09))
+
 ## 2.6.0 (2026-07-01)
 
 Full Changelog: [v2.5.0...v2.6.0](https://github.com/turbopuffer/turbopuffer-python/compare/v2.5.0...v2.6.0)
